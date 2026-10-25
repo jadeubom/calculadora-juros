@@ -1,2 +1,2 @@
-st.markdown("- [ O Homem Mais Rico da Babilónia ](COLE_AQUI_O_PRIMEIRO_LINK) - Essencial para iniciantes.")
-st.markdown("- [ Os Segredos da Mente Milionária ](COLE_AQUI_O_SEGUNDO_LINK) - Mude a sua mentalidade financeira.")
+st.markdown("- [ O Homem Mais Rico da Babilónia ](https://amzn.to/SEU_LINK_1) - Essencial para iniciantes.")
+st.markdown("- [ Os Segredos da Mente Milionária ](https://amzn.to/SEU_LINK_2) - Mude a sua mentalidade financeira.")
